@@ -13,7 +13,6 @@ Three reusable workflow guides for editing short-form videos. Each skill describ
 ## Repository layout
 
 ```text
-skills/
 ├── spoken-kinetic-captions/
 │   └── SKILL.md
 ├── follow-button-cta/
